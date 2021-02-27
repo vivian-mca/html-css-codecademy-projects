@@ -13,7 +13,7 @@ The objective of this repository is to document my progress while learning HTML 
 
 ## Learn HTML
 * [Fashion Blog](https://vivian-mca.github.io/HTML-CSS-Codecademy-Projects/Fashion%20Blog/) 
-* Wine Festival Schedule
+* [Wine Festival Schedule](https://vivian-mca.github.io/HTML-CSS-Codecademy-Projects/Wine%20Festival%20Schedule/)
 * Form a Story
 * New York City Blog
 

@@ -12,7 +12,7 @@ These are HTML and CSS projects I have created on Codecademy, primarily under th
 The objective of this repository is to document my progress while learning HTML and CSS. Each project has a **README.md** file and are listed under the course they were created in.
 
 ## Learn HTML
-* Fashion Blog
+* [Fashion Blog](https://vivian-mca.github.io/HTML-CSS-Codecademy-Projects/Fashion%20Blog/) 
 * Wine Festival Schedule
 * Form a Story
 * New York City Blog

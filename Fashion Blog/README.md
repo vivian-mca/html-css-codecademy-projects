@@ -1,6 +1,8 @@
 # Learn HTML | Fashion Blog
 This project was created to practice building fluency in structuring HTML documents and additional HTML elements.
 
+To view this project, click [here](https://vivian-mca.github.io/HTML-CSS-Codecademy-Projects/Fashion%20Blog/).
+
 ## Project Prompt
 "Your friend Isa is a budding fashion blogger, and she’s asked you to build her a new website, just in time for New York Fashion Week!
 

@@ -2,14 +2,20 @@
 
 These are HTML and CSS projects I have created on Codecademy, primarily under the Frond-End Engineer Career Path.
 
+Each project has a **README.md** file and are listed under the course they were created in.
+
 ## Table of Contents
 * [General Info](#general-info)
 * [Learn HTML](#learn-html)
+* [Learn CSS](#learn-css)
+* [Improved Styling with CSS](#improved-styling-with-css)
+* [Making a Website Responsive](#making-a-website-responsive)
+* [CSS Transitions and Animation](#css-transitions-and-animation)
 * [Status](#status)
 * [Contributing](#contributing)
 
-## General Info
-The objective of this repository is to document my progress while learning HTML and CSS. Each project has a **README.md** file and are listed under the course they were created in.
+## Objective
+The objective of this repository is to document my progress while learning HTML and CSS. My goal is to continue improving and modifying these projects as I gain more knowledge in Web Development.
 
 ## Learn HTML
 * [Fashion Blog](https://vivian-mca.github.io/HTML-CSS-Codecademy-Projects/Fashion%20Blog/) 

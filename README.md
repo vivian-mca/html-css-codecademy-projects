@@ -18,13 +18,13 @@ Each project has a **README.md** file and are listed under the course they were 
 The objective of this repository is to document my progress while learning HTML and CSS. My goal is to continue improving and modifying these projects as I gain more knowledge in Web Development.
 
 ## Learn HTML
-* [Fashion Blog](https://vivian-mca.github.io/HTML-CSS-Codecademy-Projects/Fashion%20Blog/) 
-* [Wine Festival Schedule](https://vivian-mca.github.io/HTML-CSS-Codecademy-Projects/Wine%20Festival%20Schedule/)
+* [Fashion Blog](https://vivian-mca.github.io/HTML-CSS-Codecademy-Projects/Fashion%20Blog) 
+* [Wine Festival Schedule](https://vivian-mca.github.io/HTML-CSS-Codecademy-Projects/Wine%20Festival%20Schedule)
 * [Form a Story](https://vivian-mca.github.io/HTML-CSS-Codecademy-Projects/Form%20a%20Story)
 * [New York City Blog](https://vivian-mca.github.io/HTML-CSS-Codecademy-Projects/New%20York%20City%20Blog)
 
 ## Learn CSS
-* Healthy Recipes
+* [Healthy Recipes](https://vivian-mca.github.io/HTML-CSS-Codecademy-Projects/Healthy%20Recipes)
 * Olivia Woodruff Portfolio
 * Dasmoto's Arts & Crafts
 * Paint Store

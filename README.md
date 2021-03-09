@@ -26,7 +26,7 @@ The objective of this repository is to document my progress while learning HTML 
 ## Learn CSS
 * [Healthy Recipes](https://vivian-mca.github.io/HTML-CSS-Codecademy-Projects/Healthy%20Recipes)
 * [Olivia Woodruff Portfolio](https://vivian-mca.github.io/HTML-CSS-Codecademy-Projects/Olivia%20Woodruff%20Portfolio)
-* Dasmoto's Arts & Crafts
+* [Dasmoto's Arts & Crafts](https://vivian-mca.github.io/HTML-CSS-Codecademy-Projects/Dasmoto's%20Arts%20%26%20Crafts)
 * Paint Store
 * Typography
 

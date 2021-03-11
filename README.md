@@ -2,7 +2,7 @@
 
 These are HTML and CSS projects I have created on Codecademy, primarily under the Frond-End Engineer Career Path.
 
-Each project has a **README.md** file and are listed under the course they were created in.
+Each project has a **README.md** file and is listed under the course it was created in.
 
 ## Table of Contents
 * [General Info](#general-info)

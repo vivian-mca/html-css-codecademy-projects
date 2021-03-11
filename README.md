@@ -14,7 +14,7 @@ Each project has a **README.md** file and is listed under the course it was crea
 * [Status](#status)
 * [Contributing](#contributing)
 
-## Objective
+## General Info
 The objective of this repository is to document my progress while learning HTML and CSS. My goal is to continue improving and modifying these projects as I gain more knowledge in Web Development.
 
 ## Learn HTML

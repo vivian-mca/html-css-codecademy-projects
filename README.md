@@ -31,7 +31,7 @@ The objective of this repository is to document my progress while learning HTML 
 * [Typography](https://vivian-mca.github.io/HTML-CSS-Codecademy-Projects/Typography)
 
 ## Improved Styling with CSS
-* The Box Model: Davie's Burgers
+* [The Box Model: Davie's Burgers](https://vivian-mca.github.io/HTML-CSS-Codecademy-Projects/The%20Box%20Model%20-%20Davie's%20Burgers)
 * Broadway
 * Fotomatic
 * Journey Around the World

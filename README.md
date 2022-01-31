@@ -18,21 +18,21 @@ Each project has a **README.md** file and is listed under the course it was crea
 The objective of this repository is to document my progress while learning HTML and CSS. My goal is to continue improving and modifying these projects as I gain more knowledge in Web Development.
 
 ## Learn HTML
-* [Fashion Blog](https://vivian-mca.github.io/HTML-CSS-Codecademy-Projects/Fashion%20Blog) 
-* [Wine Festival Schedule](https://vivian-mca.github.io/HTML-CSS-Codecademy-Projects/Wine%20Festival%20Schedule)
-* [Form a Story](https://vivian-mca.github.io/HTML-CSS-Codecademy-Projects/Form%20a%20Story)
-* [New York City Blog](https://vivian-mca.github.io/HTML-CSS-Codecademy-Projects/New%20York%20City%20Blog)
+* [Fashion Blog](https://vivian-mca.github.io/html-css-codecademy-projects/Fashion%20Blog) 
+* [Wine Festival Schedule](https://vivian-mca.github.io/html-css-codecademy-projects/Wine%20Festival%20Schedule)
+* [Form a Story](https://vivian-mca.github.io/html-css-codecademy-projects/Form%20a%20Story)
+* [New York City Blog](https://vivian-mca.github.io/html-css-codecademy-projects/New%20York%20City%20Blog)
 
 ## Learn CSS
-* [Healthy Recipes](https://vivian-mca.github.io/HTML-CSS-Codecademy-Projects/Healthy%20Recipes)
-* [Olivia Woodruff Portfolio](https://vivian-mca.github.io/HTML-CSS-Codecademy-Projects/Olivia%20Woodruff%20Portfolio)
-* [Dasmoto's Arts & Crafts](https://vivian-mca.github.io/HTML-CSS-Codecademy-Projects/Dasmoto's%20Arts%20%26%20Crafts)
-* [Paint Store](https://vivian-mca.github.io/HTML-CSS-Codecademy-Projects/Paint%20Store)
-* [Typography](https://vivian-mca.github.io/HTML-CSS-Codecademy-Projects/Typography)
+* [Healthy Recipes](https://vivian-mca.github.io/html-css-codecademy-projects/Healthy%20Recipes)
+* [Olivia Woodruff Portfolio](https://vivian-mca.github.io/html-css-codecademy-projects/Olivia%20Woodruff%20Portfolio)
+* [Dasmoto's Arts & Crafts](https://vivian-mca.github.io/html-css-codecademy-projects/Dasmoto's%20Arts%20%26%20Crafts)
+* [Paint Store](https://vivian-mca.github.io/html-css-codecademy-projects/Paint%20Store)
+* [Typography](https://vivian-mca.github.io/html-css-codecademy-projects/Typography)
 
 ## Improved Styling with CSS
-* [The Box Model: Davie's Burgers](https://vivian-mca.github.io/HTML-CSS-Codecademy-Projects/The%20Box%20Model%20-%20Davie's%20Burgers)
-* [Broadway](https://vivian-mca.github.io/HTML-CSS-Codecademy-Projects/Broadway)
+* [The Box Model: Davie's Burgers](https://vivian-mca.github.io/html-css-codecademy-projects/The%20Box%20Model%20-%20Davie's%20Burgers)
+* [Broadway](https://vivian-mca.github.io/html-css-codecademy-projects/Broadway)
 * Fotomatic
 * Journey Around the World
 * Pinpoint E-Commerce

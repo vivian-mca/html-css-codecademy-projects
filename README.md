@@ -37,7 +37,7 @@ The objective of this repository is to document my progress while learning HTML 
 * Journey Around the World
 * Pinpoint E-Commerce
 * Reel Good Reviews
-* The Summit
+* [The Summit](https://vivian-mca.github.io/html-css-codecademy-projects/The%20Summit)
 * FreshDeals: Blueberries
 * Build a Website Design System
 

@@ -1,0 +1,261 @@
+/*------------------------------------*\
+  #GENERAL-STYLES
+\*------------------------------------*/
+
+body {
+  padding: 0;
+  background-color: #ffffff;
+}
+
+h1 {
+  color: #ffffff;
+  font-family: 'Raleway',sans-serif;
+  font-size: 60px;
+  font-weight: 400;
+  letter-spacing: 2px;
+  text-align: center;
+  text-transform: uppercase;
+}
+
+h2 {
+  color: #2176FF;
+  font-family: 'Amatic SC',sans-serif;
+  font-size: 30px;
+  text-align: center;
+  text-transform: uppercase;
+}
+
+a {
+  color: #2176FF;
+  text-decoration: underline;
+  
+  cursor: pointer;
+}
+
+a:hover {
+  text-decoration: none;
+}
+
+
+/*------------------------------------*\
+  #NAVIGATION
+\*------------------------------------*/
+
+nav {
+  position: fixed;
+  top: 0;
+  left: 0;
+  z-index: 999;
+  
+  box-sizing: border-box;
+  border-bottom: 1px solid #dddddd;
+  padding: 30px;
+  width: 100%;
+  
+  background-color: #ffffff;
+  
+  text-align: center;
+  
+  overflow-y: auto;
+}
+
+ul {
+  padding: 0;
+}
+
+nav a {
+  display: inline-block;
+  
+  padding: 10px 40px;
+  
+  color: #736B92;
+  font-family: 'Raleway', sans-serif;
+  font-size: 16px;
+  font-weight: 300;
+  letter-spacing: 2px;
+  text-transform: uppercase;
+}
+
+a .logo {
+  padding: 0 60px;
+  
+  color: #2176FF;
+  font-family: 'Amatic SC',sans-serif;
+  font-size: 34px;
+  text-align: center;
+  text-transform: uppercase;
+}
+
+.nav-link {
+  text-decoration: none;
+}
+ 
+.nav-link:hover {
+  color: #5495ff;
+}
+
+/*------------------------------------*\
+  #HEADER
+\*------------------------------------*/
+  
+.banner {
+  position: relative;
+  top: 100px;
+  
+  border-bottom: 1px solid #dddddd;
+  height: 700px;
+  width: 100%;
+  
+  background-image: url("https://images.unsplash.com/photo-1418290232843-5d7a0bd93f7d?dpr=1&auto=format&crop=entropy&fit=crop&w=1500&h=1001&q=80&cs=tinysrgb");
+  background-position: center top;
+  background-size: cover;
+  text-align: center;
+}
+
+.banner-text {
+  position: relative;
+  top: 200px;
+}
+
+.banner h2 {
+  margin: -40px 0px 80px 0px;
+  font-size: 120px;
+}
+
+.banner-btn {
+  padding: 14px;
+  
+  border: 1px solid #2176FF;
+  border-radius: 2px;
+  
+  background-color: #2176FF;
+  
+  color: #ffffff;
+  font-family: 'Raleway',sans-serif;
+  font-size: 16px;
+  font-weight: 400;
+  text-decoration: none;
+  text-transform: uppercase;
+  
+  cursor: pointer;
+}
+
+.banner-btn:hover {
+  background-color: #fff;
+  color: #2176FF;
+  transition: color .1s ease-in, background-color .1s ease-in;
+}
+ 
+.banner-btn:active {
+  font-size: 18px;
+  transition: font-size .1s ease-in-out;
+}
+
+
+/*------------------------------------*\
+  #CONTENT
+\*------------------------------------*/
+
+.content {
+  position: relative;
+  
+  border-bottom: 1px solid #eeeeee;
+  margin: 0 auto;
+  padding: 80px 0px;
+  
+  background-image: url('https://content.codecademy.com/courses/learn-links-and-buttons/project/mountain1.jpg');
+  background-position: center top;
+  background-size: cover;
+  text-align: center;
+  
+  overflow-y: auto;
+}
+
+p {
+  color: #000000;
+  font-family: 'Raleway',sans-serif;
+  font-size: 18px;
+  line-height: 42px;
+  text-align: left;
+}
+
+.description{
+  display: inline-block;
+  width: 70%;
+}
+
+
+/*------------------------------------*\
+  #ACTIVITIES-PANEL
+\*------------------------------------*/
+
+.activities-panel {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: flex-start;
+  justify-content: center;
+  
+  margin-bottom: 40px;
+  padding: 80px 0px;
+  
+  text-align: center;
+}
+
+.activities-panel h2 {
+  width: 100%;
+}
+
+.activity button {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  
+  box-sizing: border-box;
+  border: 1px solid #2176FF;
+  height: 200px;
+  width: 240px;
+  margin: 5px;
+  
+  background-color: #2176FF;
+  
+  color: #fff;
+  font-family: 'Amatic SC',sans-serif;
+  font-size: 30px;
+  text-align: center;
+  text-decoration: none;
+  text-transform: uppercase;
+  
+  cursor: pointer;
+}
+
+.activity button:hover {
+  background-color: #fff;
+  color: #5495ff;
+  transition: color .1s ease-in, background-color .1s ease-in;
+}
+ 
+.activity button:active {
+  font-size: 40px;
+  transition: font-size .1s;
+}
+
+
+/*------------------------------------*\
+  #FOOTER
+\*------------------------------------*/
+
+.footer {
+  padding: 30px;
+  
+  background-color: #2176FF;
+  
+  text-align: center;
+}
+
+.footer h2 {
+  color: #ffffff;
+  font-family: 'Raleway',sans-serif;
+  font-size: 14px;
+  font-weight: 100;
+  letter-spacing: 2px;
+}

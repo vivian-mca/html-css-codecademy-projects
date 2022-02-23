@@ -6,51 +6,50 @@ Each project has a **README.md** file and is listed under the course it was crea
 
 ## Table of Contents
 * [General Info](#general-info)
-* [Learn HTML](#learn-html)
-* [Learn CSS](#learn-css)
+* [Fundamentals of HTML](#fundamentals-of-html)
+* [Fundamentals of CSS](#fundamentals-of-css)
 * [Improved Styling with CSS](#improved-styling-with-css)
 * [Making a Website Responsive](#making-a-website-responsive)
-* [CSS Transitions and Animation](#css-transitions-and-animation)
+* [CSS Transitions and transforms](#css-transitions-and-transforms)
 * [Status](#status)
 * [Contributing](#contributing)
 
 ## General Info
 The objective of this repository is to document my progress while learning HTML and CSS. My goal is to continue improving and modifying these projects as I gain more knowledge in Web Development.
 
-## Learn HTML
+## Fundamentals of HTML
 * [Fashion Blog](https://vivian-mca.github.io/html-css-codecademy-projects/Fashion%20Blog) 
 * [Wine Festival Schedule](https://vivian-mca.github.io/html-css-codecademy-projects/Wine%20Festival%20Schedule)
 * [Form a Story](https://vivian-mca.github.io/html-css-codecademy-projects/Form%20a%20Story)
 * [New York City Blog](https://vivian-mca.github.io/html-css-codecademy-projects/New%20York%20City%20Blog)
 
-## Learn CSS
+## Fundamentals of CSS
 * [Healthy Recipes](https://vivian-mca.github.io/html-css-codecademy-projects/Healthy%20Recipes)
 * [Olivia Woodruff Portfolio](https://vivian-mca.github.io/html-css-codecademy-projects/Olivia%20Woodruff%20Portfolio)
-* [Dasmoto's Arts & Crafts](https://vivian-mca.github.io/html-css-codecademy-projects/Dasmoto's%20Arts%20%26%20Crafts)
-* [Paint Store](https://vivian-mca.github.io/html-css-codecademy-projects/Paint%20Store)
-* [Typography](https://vivian-mca.github.io/html-css-codecademy-projects/Typography)
-
-## Improved Styling with CSS
 * [The Box Model: Davie's Burgers](https://vivian-mca.github.io/html-css-codecademy-projects/The%20Box%20Model%20-%20Davie's%20Burgers)
 * [Broadway](https://vivian-mca.github.io/html-css-codecademy-projects/Broadway)
-* Fotomatic
+* [Typography](https://vivian-mca.github.io/html-css-codecademy-projects/Typography)
+* [Dasmoto's Arts & Crafts](https://vivian-mca.github.io/html-css-codecademy-projects/Dasmoto's%20Arts%20%26%20Crafts)
+
+## Improved Styling with CSS
+* [Paint Store](https://vivian-mca.github.io/html-css-codecademy-projects/Paint%20Store)
+* [The Summit](https://vivian-mca.github.io/html-css-codecademy-projects/The%20Summit)
 * Journey Around the World
 * Pinpoint E-Commerce
 * Reel Good Reviews
-* [The Summit](https://vivian-mca.github.io/html-css-codecademy-projects/The%20Summit)
-* FreshDeals: Blueberries
-* Build a Website Design System
 
 ## Making a Website Responsive
-* Tsunami Coffee
+* To-Do App
 * Tea Cozy
-* CSS Grid: PupSpa
+* PupSpa
 * CSS Grid: Task Board
+* Tsunami Coffee
+* Fotomatic
 * CSS Grid: Architecture Blog
 * Company Home Page with Flexbox
 * Responsive Club Website
 
-## CSS Transitions and Animation
+## CSS Transitions and Transforms
 * Transitions - 20,000 Leagues Under the Sea
 
 ## Status

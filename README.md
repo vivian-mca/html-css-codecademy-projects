@@ -35,7 +35,6 @@ The objective of this repository is to document my progress while learning HTML 
 * [Paint Store](https://vivian-mca.github.io/html-css-codecademy-projects/Paint%20Store)
 * [The Summit](https://vivian-mca.github.io/html-css-codecademy-projects/The%20Summit)
 * Journey Around the World
-* Pinpoint E-Commerce
 * Reel Good Reviews
 
 ## Making a Website Responsive

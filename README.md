@@ -56,7 +56,6 @@ To view the project's source code and live site, please click on the respective 
 - [x] [Paint Store](https://vivian-mca.github.io/html-css-codecademy-projects/Paint%20Store)
 - [x] [Typography](https://vivian-mca.github.io/html-css-codecademy-projects/Typography)
 - [x] [The Summit](https://vivian-mca.github.io/html-css-codecademy-projects/The%20Summit)
-- [ ] FreshDeals: Blueberries
 
 ### Fundamentals of Web Design
 - [ ] Journey Around the World
